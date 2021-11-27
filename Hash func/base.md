@@ -38,7 +38,7 @@ $ md5sum samplefile.txt
 
 ## Hash Collisions
 
-A collision is when two pieces of data or text have the same cryptographic hash. This is very rare.
+A collision is when two pieces of data or text have the same cryptographic hash. This is very rare少.
 
 What’s significant about collisions is that they can be used to crack password hashes. Passwords are usually stored as hashes on a computer, since it’s hard to get the passwords from hashes.
 
